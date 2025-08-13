@@ -39,6 +39,4 @@ smart_retail_forecaster/
 2. Run the Application
    python app.py
 
-📷 Screenshots 
-![Home Page](screenshots/home.png)  
-![Forecast Results](screenshots/results.png)  
+
