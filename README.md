@@ -37,19 +37,19 @@ interactive_health_risk_predictor/
 
 ⚡ How to Run Locally
 
-1.Clone the repository: 
+1. Clone the repository: 
 
-git clone https://github.com/yourusername/interactive-health-risk-predictor.git
+   git clone https://github.com/yourusername/interactive-health-risk-predictor.git
 
-cd interactive-health-risk-predictor
+   cd interactive-health-risk-predictor
 
 2. Install dependencies:
    
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-4. Run the app:
+3. Run the app:
 
-streamlit run app.py
+   streamlit run app.py
 
 🎯 Use Cases
 
